@@ -1,7 +1,7 @@
 #1 Need dowload git:  sudo apt-get install git 
 git clone https://github.com/NMT99/WordpressTuPC.git
 #2 Add permission :
-chmod +wx W... or chmod 775 
+sudo chmod 775 WordPressInstalleronUbuntu/install 
 #3 Run with :  
 ./
 sh
