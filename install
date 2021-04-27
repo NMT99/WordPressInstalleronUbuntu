@@ -19,8 +19,8 @@ echo LAMP  WAS INSTALL SUCCESSFULLY ! ;
 sudo chown -R $USER:$USER /etc/apache2/sites-available/ ; 
 read -p "Enter domain name foder:" dnf1 ;
 sudo mkdir /var/www/$dnf1 ; 
-touch /etc/apache2/sites-available/$USER$HOSTNAME.conf ; 
 read -p "Enter your ServerName:" sn1 ;
+touch /etc/apache2/sites-available/$sn1.conf ; 
 echo "<VirtualHost *:80>
 ServerName $sn1
 ServerAlias $USER$HOSTNAME
@@ -28,7 +28,7 @@ ServerAdmin $USER$HOSTNAME@localhost
 DocumentRoot /var/www/$dnf1
 ErrorLog ${APACHE_LOG_DIR}/error.log
 CustomLog ${APACHE_LOG_DIR}/access.log combined
-</VirtualHost>" > /etc/apache2/sites-available/$USER$HOSTNAME.conf ; 
+</VirtualHost>" > /etc/apache2/sites-available/$sn1.conf ; 
 sudo chown -R $USER:$USER /var/www/$dnf1 ; 
 touch /var/www/$dnf1/index.html ; echo "<html>
   <head>
