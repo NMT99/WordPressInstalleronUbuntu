@@ -11,7 +11,7 @@ cd WordPressInstalleronUbuntu/
 sudo chmod +x install        ***
 
          #3 Run with :  
-./WordPressInstalleronUbuntu/install                    ***
+./install                    ***
 
 !!!!!!!Made by NgoMinhTu!!!!!!!!
 
