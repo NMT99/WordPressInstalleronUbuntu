@@ -15,5 +15,6 @@ bash WordPressInstalleronUbuntu/install
 /bin/bash WordPressInstalleronUbuntu/install
 
 !!!!!!!Made by NgoMinhTu!!!!!!!!
-
+#Ubuntu 20.10 
+#Ubuntu 20.04
 
