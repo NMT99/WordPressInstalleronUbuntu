@@ -6,16 +6,8 @@ sudo git clone https://github.com/NMT99/WordPressInstalleronUbuntu.git    ***
 
          #2 Add permission :
 sudo chmod 775 WordPressInstalleronUbuntu/install        ***
-or
-
          #3 Run with :  
 sudo sh WordPressInstalleronUbuntu/install    ***
-
-
-
-or
-bash WordPressInstalleronUbuntu/install
-/bin/bash WordPressInstalleronUbuntu/install
 
 !!!!!!!Made by NgoMinhTu!!!!!!!!
 #Ubuntu 20.10 
