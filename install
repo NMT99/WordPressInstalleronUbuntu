@@ -41,7 +41,7 @@ touch /var/www/$dnf1/index.html ; echo "<html>
 </html>" > /var/www/$dnf1/index.html ; 
 sudo a2dissite 000-default ; 
 sudo systemctl reload apache2 ; 
-sudo a2ensite $USER$HOSTNAME.conf ; 
+sudo a2ensite $sn1.conf ; 
 sudo systemctl reload apache2 ;
 
 #setservername3
