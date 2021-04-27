@@ -5,6 +5,7 @@
 sudo git clone https://github.com/NMT99/WordPressInstalleronUbuntu.git    ***
 
          #2 Add permission :
+         sudo chmod +x install
 sudo chmod 775 WordPressInstalleronUbuntu/install        ***
          #3 Run with :  
 sudo sh WordPressInstalleronUbuntu/install    ***
