@@ -2,7 +2,7 @@
 ** Can run on ubuntu 20.04 & ubuntu 20.10 **
 
          #1 Need dowload git:  sudo apt-get install git          
-sudo git clone https://github.com/NMT99/WordpressTuPC.git     ***
+sudo git clone https://github.com/NMT99/WordPressInstalleronUbuntu.git     ***
 
          #2 Add permission :
 sudo chmod 775 WordPressInstalleronUbuntu
