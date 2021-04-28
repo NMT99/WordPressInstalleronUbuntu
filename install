@@ -12,7 +12,6 @@ sudo systemctl start apache2 ;
 sudo systemctl start mysql ; 
 sudo systemctl stop ufw ; 
 sudo systemctl disable ufw ; 
-sudo systemctl status ufw;
 echo LAMP  WAS INSTALL SUCCESSFULLY ! ;
 
 #Apache2
