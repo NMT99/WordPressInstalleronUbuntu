@@ -1,3 +1,1 @@
-chmod +wx W... 
-run = ./
-git clone https://github.com/NMT99/WordpressTuPC.git
+
