@@ -3,10 +3,13 @@
 ** Can run on:  #Ubuntu 20.10 
                 #Ubuntu 20.04
 
-         #1 Need dowload git:  sudo apt-get install git          
+         # 1.Tải git nếu chưa có
+            1.Need dowload git:  
+         sudo apt-get install git          
 sudo git clone https://github.com/NMT99/WordPressInstalleronUbuntu.git    ***
 
-         #2 Install : 
+         #2.Cài đặt:
+           2.Install : 
 sh WordPressInstalleronUbuntu/install                    ***
 
 !!!!!!!Made by NgoMinhTu!!!!!!!!
