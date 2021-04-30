@@ -6,12 +6,8 @@
          #1 Need dowload git:  sudo apt-get install git          
 sudo git clone https://github.com/NMT99/WordPressInstalleronUbuntu.git    ***
 
-         #2 Install :
-cd WordPressInstalleronUbuntu/
-sudo chmod +x install        ***
-
-         #3 Run with :  
-./install                    ***
+         #2 Install : 
+sh WordPressInstalleronUbuntu/install                    ***
 
 !!!!!!!Made by NgoMinhTu!!!!!!!!
 
