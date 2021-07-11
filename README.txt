@@ -9,7 +9,9 @@
 sudo git clone https://github.com/NMT99/WordPressInstalleronUbuntu.git    ***
 
          #2.Cài đặt:
-           2.Install : 
+           2.Install :
+          
+sudo chmod +x WordPressInstalleronUbuntu/install           
 sh WordPressInstalleronUbuntu/install                    ***
 
 !!!!!!!Made by NgoMinhTu!!!!!!!!
